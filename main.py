@@ -3,7 +3,7 @@ HTTP Request Debug Spoofer:
 This class is designed for debugging and testing HTTP requests. It is not suitable for stable or production
 environments.
 
-Spoofer was developed in under 5 minutes with the sole purpose of sending API requests to my API for
+Spoofer was developed in under 5 minutes (around 4 months ago) with the sole purpose of sending API requests to my API for
 generating and storing simulated user data.
 
 Please be aware that this project was never intended for public use, and the code is not ready and is not intended
